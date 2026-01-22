@@ -1,4 +1,5 @@
 # Canada Number Validator
+# 加拿大号码验证器
 
 ![Canada Number Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-number-validator.png)
 ![Canada carrier Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-carrier-validator.png)
@@ -17,6 +18,8 @@
 ## 🤝 Get in Touch
 
 if you want to purchase,
+
+如果你想购买，
 
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
