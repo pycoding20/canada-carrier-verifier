@@ -18,7 +18,7 @@
 
 ## 🤝 Get in Touch
 
-if you want to purchase,
+if you want to purchase ,
 
 如果你想购买，
 
